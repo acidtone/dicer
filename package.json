@@ -1,5 +1,5 @@
 {
-  "name": "dicer",
+  "name": "dice-rollr",
   "type": "module",
   "version": "1.0.0",
   "description": "A die rolling utility for games",
