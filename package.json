@@ -2,8 +2,12 @@
   "name": "dicer",
   "type": "module",
   "version": "1.0.0",
-  "description": "A simple dice roll function",
+  "description": "A die rolling utility for games",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acidtone/dicer"
+  },
   "author": "Tony Grimes",
   "license": "MIT"
 }
