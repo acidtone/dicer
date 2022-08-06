@@ -1,0 +1,9 @@
+{
+  "name": "dicer",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A simple dice roll function",
+  "main": "index.js",
+  "author": "Tony Grimes",
+  "license": "MIT"
+}
